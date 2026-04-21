@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.bmad/
+_bmad/
+BMAD-METHOD/
+.tmp-bmad-method/
+
